@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Personal 1.0",
+"dataUrl": "EthanFifeUIProject.data.unityweb",
+"wasmCodeUrl": "EthanFifeUIProject.wasm.code.unityweb",
+"wasmFrameworkUrl": "EthanFifeUIProject.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
